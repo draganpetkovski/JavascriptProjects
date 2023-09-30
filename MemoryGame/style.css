@@ -1,0 +1,32 @@
+body {
+  background-image: url(img/pyramid.jpg);
+}
+
+.cards-container,
+.cards-container2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 1rem;
+  row-gap: 1rem;
+  max-width: 50%;
+  margin: 1rem auto;
+}
+.card {
+  background-color: blueviolet;
+  border: 2px springgreen;
+  display: flex;
+  align-items: center;
+}
+.slika {
+  max-width: 60%;
+
+  margin: auto;
+}
+
+.hint {
+  background-color: springgreen;
+}
+
+.unActive {
+  opacity: 0;
+}
