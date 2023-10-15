@@ -1,6 +1,6 @@
 # JavascriptProjects
 
-## Here are links of these small projects deployed on netlify
+## Here are links of these small projects on netlify
 
 [Bank Account Aplication](https://bankaccdp.netlify.app/) </br>
 
